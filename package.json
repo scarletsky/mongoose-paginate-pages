@@ -1,0 +1,31 @@
+{
+  "name": "mongoose-paginate-pages",
+  "version": "1.0.0",
+  "description": "An paginate plugin for mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scarletsky/mongoose-paginate-pages.git"
+  },
+  "keywords": [
+    "mongoose",
+    "paginate",
+    "pagination"
+  ],
+  "author": "scarletsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scarletsky/mongoose-paginate-pages/issues"
+  },
+  "homepage": "https://github.com/scarletsky/mongoose-paginate-pages",
+  "dependencies": {
+    "async": "^0.9.0"
+  },
+  "devDependencies": {
+    "mongoose": "^4.0.2",
+    "should": "^6.0.1"
+  }
+}
